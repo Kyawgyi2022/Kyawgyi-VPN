@@ -1,0 +1,79 @@
+{
+   "files": [ 
+
+      {
+         "name": "DtacNoPro_VIP1",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/DTAC-VIP-01.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_VIP2 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/DTAC-VIP-01.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_GAME1 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/DTAC-VIP-01.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_GAME2 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/DTAC-VIP-01.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_FREE1 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/DTAC-VIP-FREE-01.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_FREE2",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/DTAC-VIP-FREE-01.ovpn"
+      }
+
+,
+{
+         "name": "TrueNoPro_VIP1 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TRUE-VIP-01.ovpn"
+      }
+,
+
+{
+         "name": "TrueNoPro_VIP2
+",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TRUE-VIP-01.ovpn"
+      }
+,
+
+{
+         "name": "TrueNoPro_GAME1 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TRUE-VIP-GAME-01.ovpn"
+      }
+,
+
+{
+         "name": "TrueNoPro_GAME2 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TRUE-VIP-GAME-01.ovpn"
+      }
+
+
+{
+         "name": "TrueNoPro_FREE1 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TRUE-VIP-FREE-01.ovpn"
+      }
+
+
+{
+         "name": "TrueNoPro_FREE2 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TRUE-VIP-FREE-01.ovpn"
+      }
+   ],
+"message":"ေန႔စြဲ ဇြန္ 7ရက္\nဖိုင္ဗားရွင္း 2\nUpdate by: Kyaw gyi\nဖိုင္အသစ္ရခဲ့တယ္ ",
+   "title":"အပ္ဒိပ္ရရွိနိုင္ပါပီး" ,
+   "version": 1
+}

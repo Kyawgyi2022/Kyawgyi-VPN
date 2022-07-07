@@ -9,7 +9,7 @@
 
 {
          "name": "DTAC-FREE-02 ",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/DTAC-FREE-01.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TRUE-FREE-02.ovpn"
       },
 
 
@@ -59,7 +59,7 @@
 
 {
          "name": "TRUE-FREE-02 ",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TRUE-FREE-01.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/DTAC-FREE-02.ovpn"
       }
 ,
 
@@ -74,7 +74,7 @@
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TRUE-GAME-VIP-02.ovpn"
       }
    ],
-"message":"ေန႔စြဲ ဇြန္ 13ရက္\nဖိုင္ဗားရွင္း 3\nUpdate by: Kyaw gyi\nဖိုင္အသစ္ရခဲ့တယ္ ",
+"message":"ေန႔စြဲ ဇြန္လိုင္ 7ရက္\nဖိုင္ဗားရွင္း 3\nUpdate by: Kyaw gyi\nဖိုင္အသစ္ရခဲ့တယ္ ",
    "title":"အပ္ဒိပ္ရရွိနိုင္ပါပီး" ,
-   "version": 6
+   "version": 8
 }

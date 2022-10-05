@@ -2,73 +2,73 @@
    "files": [ 
 
       {
-         "name": "GAME-03",
+         "name": "DTAC-GAME-VIP-03",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/FREE-01.ovpn"
       },
 
 
 {
-         "name": "VIP-03",
+         "name": "DTAC-VIP-03",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-GAME%E1%80%85%E1%80%99%E1%80%BA%E1%80%B8..ovpn"
       },
 
 
 {
-         "name": "GAME-01 ",
+         "name": "DTAC-GAME-VIP-01 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-DTAC-GAME-01.ovpn"
       },
 
 
 {
-         "name": "GAME-02 ",
+         "name": "DTAC-GAME-VIP-02 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/NAN2.ovpn"
       },
 
 
 {
-         "name": "VIP-01 ",
+         "name": "DTAC-VIP-01 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-DTAC-VIP-01.ovpn"
       }
 ,
 {
-         "name": "VIP-02",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-DTAC-VIP-01.ovpn"
-      }
-,
-
-{
-         "name": "VIP-04 ",
+         "name": "DTAC-VIP-02",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-DTAC-VIP-01.ovpn"
       }
 ,
 
 {
-         "name": "VIP-05 
+         "name": "TRUE-VIP-01 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-DTAC-VIP-01.ovpn"
+      }
+,
+
+{
+         "name": "TRUE-VIP-02 
 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-DTAC-VIP-01.ovpn"
       }
 ,
 
 {
-         "name": "GAME-04 ",
+         "name": "TRUE-GAME-VIP-03 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/FREE-01.ovpn"
       }
 ,
 
 {
-         "name": "VIP-06 ",
+         "name": "TRUE-VIP-03",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-GAME%E1%80%85%E1%80%99%E1%80%BA%E1%80%B8..ovpn"
       }
 ,
 
 {
-         "name": "GAME-05 ",
+         "name": "TRUE-GAME-VIP-01 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/NAN2.ovpn"
       }
 ,
 
 {
-         "name": "GAME-06 ",
+         "name": "TRUE-GAME-VIP-02 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-TRUE-GAME-02.ovpn"
       }
    ],

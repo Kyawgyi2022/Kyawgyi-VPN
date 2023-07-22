@@ -78,26 +78,25 @@
 ,
 
 {
-        "name": "TRUE-VIP-07 ",
+         "name": "TRUE-VIP-07 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-007.ovpn"
-
       }
 ,
 
 {
-        "name": "TRUE-VIP-08 ",
+         "name": "TRUE-VIP-08 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-008.ovpn"
       }
 ,
 
 {
-        "name": "TRUE-VIP-09 ",
+         "name": "TRUE-VIP-09 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-009.ovpn"
       }
 ,
 
 {
-        "name": "TRUE-VIP-10 ",
+          "name": "TRUE-VIP-10",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-10.ovpn"
       }
 ,

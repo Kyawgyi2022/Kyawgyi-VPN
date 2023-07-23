@@ -2,78 +2,124 @@
    "files": [ 
 
       {
-         "name": "DTAC-VIP-06 ",
+         "name": "DTAC-VIP-001 ",
+         "url":  "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-001.ovpn"
+      },
+
+
+{
+         "name": "DTAC-VIP-002 ",
+     "url":     "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-002.ovpn"
+     },
+
+
+{
+         "name": "DTAC-VIP-003 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-003.ovpn"
+    },
+
+
+{
+         "name": "DTAC-VIP-004 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-004.ovpn"
+    },
+
+
+{
+        "name": "DTAC-VIP-005 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-005.ovpn"
+    },
+
+
+{
+         "name": "DTAC-VIP-006",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-006.ovpn"
       },
 
 
 {
-         "name": "DTAC-VIP-03",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-003.ovpn"
+         "name": "DTAC-VIP-007 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-007.ovpn"
       },
 
 
 {
-         "name": "DTAC-VIP-04 ",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-DTAC-GAME-01.ovpn"
+         "name": "DTAC-VIP-008 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-008.ovpn"
       },
 
-
 {
-         "name": "DTAC-VIP-05 ",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-005.ovpn"
+         "name": "DTAC-VIP-009",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-009.ovpn"
       },
 
+{
+
+     "name": "DTAC-VIP-010",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-010.ovpn"
+      },
 
 {
-         "name": "DTAC-VIP-01",
+         "name": "TRUE-VIP-001",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-001.ovpn"
-      },
-
-{
-
-     "name": "DTAC-VIP-02",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-002.ovpn"
-      },
-
-{
-         "name": "TRUE-VIP-01",
-         "url":
-"https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-001.ovpn"
       }
 ,
 
 {
-         "name": "TRUE-VIP-02",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-002.ovpn
+         "name": "TRUE-VIP-002",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-002.ovpn"
+      }
+,
+
+{
+         "name": "TRUE-VIP-003 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-003.ovpn"
+      }
+,
+
+{
+        "name": "TRUE-VIP-004 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-004.ovpn
 "
       }
 ,
 
 {
-         "name": "TRUE-VIP-06 ",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-006.ovpn"
-      }
-,
-
-{
-         "name": "TRUE-VIP-03",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-003.ovpn"
-      }
-,
-
-{
-         "name": "TRUE-VIP-05 ",
+        "name": "TRUE-VIP-005 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-005.ovpn"
       }
 ,
 
 {
-         "name": "TRUE-VIP-04 ",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/TH-TRUE-GAME-02.ovpn"
+        "name": "TRUE-VIP-006 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-006.ovpn"
+      }
+,
+
+{
+        "name": "TRUE-VIP-007 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-007.ovpn"
+      }
+,
+
+{
+         "name": "TRUE-VIP-008",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-008.ovpn"
+      }
+,
+
+{
+         "name": "TRUE-VIP-009 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-009.ovpn"
+      }
+,
+
+{
+         "name": "TRUE-VIP-010 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-010.ovpn"
       }
  ],
-"message":" JULY 10 ရက္ အပ္ဒိပ္လုပ္ဖို႔မျပင္းၾကပါနဲ႔\nဖိုင္ဗားရွင္း 36\nUpdate by: Kyaw gyi\nဖိုင္အသစ္ရခဲ့တယ္ ",
+"message":" ဇြန္လိုင္ 23 ရက္ လိုင္းအားေကာင္းတဲ႔ဆားဗားေတြထည္႔သြင္းေပးထားလို႔ေရာင္းအားကသိသိသာသာေကာင္းလာတာေျကာင္႔အပ္ဒိပ္လုပ္ဖို့မျပင္းၾကပါနဲ႔VIP30DAY50BAHT\nဖိုင္ဗားရွင္း 40\nUpdate by: Kyaw gyi\nဖိုင္အသစ္ရခဲ့တယ္ ",
    "title":"အပ္ဒိပ္ရရွိနိုင္ပါပီး" ,
-   "version": 37
+   "version": 41
 }

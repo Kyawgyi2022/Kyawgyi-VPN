@@ -39,24 +39,24 @@
 
 {
          "name": "DTAC-VIP-007 ",
-         "url": "https://github.com/Kyawgyi2022/Kyawgyi-VPN/blob/main/KKKK.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-007.ovpn"
       },
 
 
 {
          "name": "DTAC-VIP-008 ",
-         "url": "https://github.com/Kyawgyi2022/Kyawgyi-VPN/blob/main/KKKK.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-008.ovpn"
       },
 
 {
          "name": "DTAC-VIP-009",
-         "url": "https://github.com/Kyawgyi2022/Kyawgyi-VPN/blob/main/KKKK.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-009.ovpn"
       },
 
 {
 
      "name": "DTAC-VIP-010",
-         "url": "https://github.com/Kyawgyi2022/Kyawgyi-VPN/blob/main/KKKK.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-010.ovpn"
       },
 
 {
@@ -79,7 +79,8 @@
 
 {
         "name": "TRUE-VIP-004 ",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-004.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-004.ovpn
+"
       }
 ,
 
@@ -97,28 +98,28 @@
 
 {
         "name": "TRUE-VIP-007 ",
-         "url": "https://github.com/Kyawgyi2022/Kyawgyi-VPN/blob/main/KKKK.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-007.ovpn"
       }
 ,
 
 {
          "name": "TRUE-VIP-008",
-         "url": "https://github.com/Kyawgyi2022/Kyawgyi-VPN/blob/main/KKKK.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-008.ovpn"
       }
 ,
 
 {
          "name": "TRUE-VIP-009 ",
-         "url": "https://github.com/Kyawgyi2022/Kyawgyi-VPN/blob/main/KKKK.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-009.ovpn"
       }
 ,
 
 {
          "name": "TRUE-VIP-010 ",
-         "url": "https://github.com/Kyawgyi2022/Kyawgyi-VPN/blob/main/KKKK.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-010.ovpn"
       }
  ],
-"message":" ျသဂုတ္ 12 ရက္ လိုင္းအားေကာင္းတဲ႔ဆားဗားေတြထည္႔သြင္းေပးထားလို႔ေရာင္းအားကသိသိသာသာေကာင္းလာတာေျကာင္႔အပ္ဒိပ္လုပ္ဖို့မျပင္းၾကပါနဲ႔VIP30DAY50BAHT\nဖိုင္ဗားရွင္း 51\nUpdate by: Kyaw gyi\nဖိုင္အသစ္ရခဲ့တယ္ ",
+"message":" ျသဂုတ္ 11 ရက္ လိုင္းအားေကာင္းတဲ႔ဆားဗားေတြထည္႔သြင္းေပးထားလို႔ေရာင္းအားကသိသိသာသာေကာင္းလာတာေျကာင္႔အပ္ဒိပ္လုပ္ဖို့မျပင္းၾကပါနဲ႔VIP30DAY50BAHT\nဖိုင္ဗားရွင္း 53\nUpdate by: Kyaw gyi\nဖိုင္အသစ္ရခဲ့တယ္ ",
    "title":"အပ္ဒိပ္ရရွိနိုင္ပါပီး" ,
-   "version": 52
-      }
+   "version": 54
+}

@@ -50,7 +50,7 @@
 
 {
          "name": "DTAC-VIP-009",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-009.ovpn"
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-010.ovpn"
       },
 
 {
@@ -72,32 +72,37 @@
 ,
 
 {
-         "name": "TRUE-VIP-003 ",
+         "name": 
+"TRUE-VIP-003 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-003.ovpn"
       }
 ,
 
 {
-        "name": "TRUE-VIP-004 ",
-         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-004.ovpn
-"
+        "name":
+ "TRUE-VIP-004 ",
+         "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-004.ovpn"
+
       }
 ,
 
 {
-        "name": "TRUE-VIP-005 ",
+        "name":
+ "TRUE-VIP-005 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-005.ovpn"
       }
 ,
 
 {
-        "name": "TRUE-VIP-006 ",
+        "name":
+ "TRUE-VIP-006 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-006.ovpn"
       }
 ,
 
 {
-        "name": "TRUE-VIP-007 ",
+        "name":
+ "TRUE-VIP-007 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-007.ovpn"
       }
 ,
@@ -109,17 +114,19 @@
 ,
 
 {
-         "name": "TRUE-VIP-009 ",
+         "name": 
+"TRUE-VIP-009 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-009.ovpn"
       }
 ,
 
 {
-         "name": "TRUE-VIP-010 ",
+         "name": 
+"TRUE-VIP-010 ",
          "url": "https://raw.githubusercontent.com/Kyawgyi2022/Kyawgyi-VPN/main/VIP-010.ovpn"
       }
  ],
-"message":" ျသဂုတ္ 11 ရက္ လိုင္းအားေကာင္းတဲ႔ဆားဗားေတြထည္႔သြင္းေပးထားလို႔ေရာင္းအားကသိသိသာသာေကာင္းလာတာေျကာင္႔အပ္ဒိပ္လုပ္ဖို့မျပင္းၾကပါနဲ႔VIP30DAY50BAHT\nဖိုင္ဗားရွင္း 53\nUpdate by: Kyaw gyi\nဖိုင္အသစ္ရခဲ့တယ္ ",
+"message":" ႏိုဝင္ဘာ 5 ရက္ လိုင္းအားေကာင္းတဲ႔ဆားဗားေတြထည္႔သြင္းေပးထားလို႔ေရာင္းအားကသိသိသာသာေကာင္းလာတာေျကာင္႔အပ္ဒိပ္လုပ္ဖို့မျပင္းၾကပါနဲ႔VIP30DAY50BAHT\nဖိုင္ဗားရွင္း 61\nUpdate by: Kyaw gyi\nဖိုင္အသစ္ရခဲ့တယ္ ",
    "title":"အပ္ဒိပ္ရရွိနိုင္ပါပီး" ,
-   "version": 54
+   "version": 62
 }
